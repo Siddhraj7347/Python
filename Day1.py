@@ -1,4 +1,4 @@
-"""import keyword
+import keyword
 print(keyword.kwlist)
 
 print("hello world")
@@ -20,5 +20,5 @@ print(type(y))
 a = 4
 A = "Sally"
 print(a)
-print(A)"""
+print(A)
 
